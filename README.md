@@ -1,1 +1,1 @@
-# Computational_Stats
+# Computational_Statistics_Lab
